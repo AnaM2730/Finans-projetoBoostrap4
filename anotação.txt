@@ -1,0 +1,1 @@
+<!-- no boostrap - criar imagens grandes para utilizar classes responsivas de imagens -->
